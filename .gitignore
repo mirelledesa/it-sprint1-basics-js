@@ -1,0 +1,15 @@
+# Dependencias
+node_modules/
+
+# Build (Vite)
+dist/
+
+# Archivos de entorno
+.env
+
+# VSCode
+.vscode/
+
+# Sistema (Mac/Windows)
+.DS_Store
+Thumbs.db
